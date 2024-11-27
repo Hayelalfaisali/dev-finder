@@ -105,7 +105,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Hayel Al-Faisali - [@HayelFaisali](https://twitter.com/HayelFaisali)
 
-Project Link: [https://github.com/yourusername/dev-finder](https://github.com/Hayelalfaisali/dev-finder)
+Project Link: [https://github.com/Hayelalfaisali/dev-finder](https://github.com/Hayelalfaisali/dev-finder)
 
 ---
 
