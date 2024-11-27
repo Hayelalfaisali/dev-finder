@@ -1,4 +1,4 @@
-# DevFinder 
+# DevFinder 🔍
 
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
@@ -10,18 +10,18 @@ A sleek and modern GitHub user search application built with React and TypeScrip
 
 ![DevFinder Screenshot](/public/image.png)
 
-## Features
+## ✨ Features
 
-- **Instant GitHub User Search**: Quick and efficient user search functionality
-- **Dark/Light Theme**: Seamless theme switching for comfortable viewing
-- **User Statistics**: View repositories, followers, and following counts
-- **Social Links**: Quick access to user's blog, Twitter, and company info
-- **Responsive Design**: Works perfectly on desktop and mobile devices
-- **Fast Performance**: Built with Vite for optimal loading speeds
-- **Modern UI**: Clean and intuitive interface using Tailwind CSS
-- **Type Safety**: Written in TypeScript for robust code quality
+- 🔍 **Instant GitHub User Search**: Quick and efficient user search functionality
+- 🌓 **Dark/Light Theme**: Seamless theme switching for comfortable viewing
+- 📊 **User Statistics**: View repositories, followers, and following counts
+- 🔗 **Social Links**: Quick access to user's blog, Twitter, and company info
+- 📱 **Responsive Design**: Works perfectly on desktop and mobile devices
+- ⚡ **Fast Performance**: Built with Vite for optimal loading speeds
+- 🎨 **Modern UI**: Clean and intuitive interface using Tailwind CSS
+- 💪 **Type Safety**: Written in TypeScript for robust code quality
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **Frontend Framework**: React 18
 - **Language**: TypeScript
@@ -31,7 +31,7 @@ A sleek and modern GitHub user search application built with React and TypeScrip
 - **Build Tool**: Vite
 - **Package Manager**: npm
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -61,7 +61,7 @@ A sleek and modern GitHub user search application built with React and TypeScrip
    http://localhost:5173
    ```
 
-## Building for Production
+## 🏗️ Building for Production
 
 1. Create a production build:
    ```bash
@@ -73,7 +73,7 @@ A sleek and modern GitHub user search application built with React and TypeScrip
    npm run preview
    ```
 
-## Usage
+## 📝 Usage
 
 1. Enter a GitHub username in the search bar
 2. Click the "Search" button or press Enter
@@ -81,7 +81,7 @@ A sleek and modern GitHub user search application built with React and TypeScrip
 4. Toggle between dark and light themes using the theme switch
 5. Click on links to visit the user's GitHub profile, blog, or social media
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -91,17 +91,17 @@ Contributions are welcome! Here's how you can help:
 4. Push to the branch: `git push origin feature/YourFeature`
 5. Open a Pull Request
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 - [GitHub API](https://docs.github.com/en/rest) for providing the user data
 - [Heroicons](https://heroicons.com/) for the beautiful icons
 - [Tailwind CSS](https://tailwindcss.com/) for the styling utilities
 
-## Contact
+## 📞 Contact
 
 Hayel Al-Faisali - [@HayelFaisali](https://twitter.com/HayelFaisali)
 
@@ -109,4 +109,4 @@ Project Link: [https://github.com/Hayelalfaisali/dev-finder](https://github.com/
 
 ---
 
-Made with using React and TypeScript
+Made with ❤️ using React and TypeScript
