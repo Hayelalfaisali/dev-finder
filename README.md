@@ -8,7 +8,7 @@
 
 A sleek and modern GitHub user search application built with React and TypeScript. DevFinder allows you to search for any GitHub user and view their detailed profile information in a beautiful, responsive interface.
 
-![DevFinder Screenshot](/public/screenshot.png)
+![DevFinder Screenshot](/public/image.png)
 
 ## Features
 
